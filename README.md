@@ -1,5 +1,12 @@
 ### Olá me chamo Guilherme. 👋
 
+Tenho 25 anos, realizei um bootcamp na Generation de Desenvolvimento Java Full-Stack e migrei da área de engenharia para técnologia, abaixo estão algumas ferramentas que eu aprendi. Entre em contato comigo:
+
+[![Linkedin Badge](https://img.shields.io/badge/-pranjaljain0-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/guilherme-mendes-a428481b0/)](https://www.linkedin.com/in/guilherme-mendes-a428481b0/) [![Gmail Badge](https://img.shields.io/badge/-guilhermemcdev@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:hello@pranjaljain.tech)](mailto:guilhermemcdev@gmail.com)
+
+
+
+
 <p align = "center"> 
 <br>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java" /> 

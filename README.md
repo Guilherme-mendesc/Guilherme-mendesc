@@ -7,6 +7,10 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Guilherme-mendesc&show_icons=true&line_height=27&count_private=true&&theme=radical" alt="Pranjal's GitHub Stats" />
 </a>
 
+<br>
+![Snake animation](https://github.com/Guilherme-mendesc/Guilherme-mendesc/blob/output/github-contribution-grid-snake.svg)
+
+
 <!--
 **Guilherme-mendesc/Guilherme-mendesc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
